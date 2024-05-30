@@ -13,4 +13,4 @@ Predict the percentage of marks that a student is expected to score based upon t
 
 dataset- http://bit.ly/w-data
 
-https://github.com/praggatii/The_Spark_Foundation-Internship2024
+https://github.com/ruchi020897/The_Spark_Foundation-Internship2024
