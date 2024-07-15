@@ -1,6 +1,6 @@
 The Sparks Foundation - Data Science and Business Analytics Internship
 
-Prediction using Supervised ML (Level - Beginner)
+Prediction using Supervised ML (Level - Beginner
 
 Predict the percentage of an student based on the number of study hours.
 
